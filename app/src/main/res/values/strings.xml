@@ -2,4 +2,95 @@
     <string name="app_name">Litel App</string>
     <string name="litel_title">LITEL</string>
     <string name="your_listing_hotel_app">Your Listing Hotel App</string>
+
+    <string-array name="hotel_image">
+        <item>@drawable/hotel1</item>
+        <item>@drawable/hotel2</item>
+        <item>@drawable/hotel3</item>
+        <item>@drawable/hotel4</item>
+        <item>@drawable/hotel5</item>
+        <item>@drawable/hotel6</item>
+        <item>@drawable/hotel7</item>
+        <item>@drawable/hotel8</item>
+        <item>@drawable/hotel9</item>
+        <item>@drawable/hotel10</item>
+    </string-array>
+
+    <string-array name="hotel_name">
+        <item>Palm Beach Hotel Bali</item>
+        <item>Mahagiri Resort Nusa Lembongan</item>
+        <item>Jimbaran Beach Villas by Nakula</item>
+        <item>Phinisi Villas - Seminyak Beach</item>
+        <item>White Palm Hotel Bali</item>
+        <item>Bali Sunshine Inn Nusa Dua</item>
+        <item>Apple Villa &amp; Suite Seminyak</item>
+        <item>The Sebali Resort</item>
+        <item>Gajah Biru Bungalows</item>
+        <item>Sahadewa Resort &amp; Spa</item>
+    </string-array>
+
+    <string-array name="hotel_star">
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="hotel_address">
+        <item>Jl Jenggala no 1, Kuta, 80361 Kuta, Indonesia </item>
+        <item>Desa Jungut Batu, 80771 Nusa Lembongan, Indonesia</item>
+        <item>Jl. Bukit Jimbaran, Komplek Karma Jimbaran Villa No.21, 80362 Jimbaran, Indonesia</item>
+        <item>Jalan Sari Dewi Gang Khayangan No. 7, 80361 Seminyak, Indonesia</item>
+        <item>Jalan Pantai Balangan, jimbaran, 80361 Jimbaran, Indonesia</item>
+        <item>JL Pratama Raya link Cetuk,Benoa Kab Badung Kuta Selatan Nusa Dua, 80361 Nusa Dua, Indonesia</item>
+        <item>Jalan Mertanadi No 89, 80361 Seminyak, Indonesia</item>
+        <item>Br. Kepitu Desa Kenderan, 80571 Ubud, Indonesia</item>
+        <item>Jalan Raya Penestanan Kelod Sayan, 80571 Ubud, Indonesia</item>
+        <item>Jl. Hanoman, 80571 Ubud, Indonesia</item>
+    </string-array>
+
+    <string-array name="hotel_price">
+        <item>US$64 - US$130</item>
+        <item>US$164 - US$275</item>
+        <item>US$716 - US$1,022</item>
+        <item>US$424 - US$1,317</item>
+        <item>US$251 - US$340</item>
+        <item>US$68 - US$168</item>
+        <item>US$53 - US$439</item>
+        <item>US$453 - US$1,561</item>
+        <item>US$58 - US$161</item>
+        <item>US$56 - US$118</item>
+    </string-array>
+
+    <string-array name="hotel_rating">
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>9.3</item>
+        <item>9.2</item>
+        <item>8.1</item>
+        <item>8.3</item>
+        <item>7.6</item>
+        <item>9.0</item>
+        <item>7.4</item>
+        <item>7.9</item>
+    </string-array>
+
+    <string-array name="hotel_description">
+        <item>With its classic Balinese style, Palm Beach Hotel offers a tropical getaway in Tuban, less than a minute walk from Kuta Beach and 10-minute walk from Discovery Shopping Mall. It features a spa and an outdoor swimming pool. Free Wi-Fi is provided.\n Located within a short walk from Lippo Mall, Palm Beach Hotel Bali is a 15-minute walk from Waterbom Park and a 10-minute drive from Ngurah Rai International Airport.\n Featuring beautifully crafted wooden furniture, rooms at Hotel Palm Beach come with a private balcony offering views of the gardens. Each room is equipped with cable TV and a fridge. Private bathrooms come with both a bathtub and shower.\nFacilities at Palm Beach Hotel include a tour desk and a business center. Wi-Fi is accessible for free in the hotel's public areas and safety deposit boxes can be used at no charge at the 24-hour front desk.\nWarsiki Coffee Shop serves local, European, and Chinese dishes. Providing open-air seating, it also offers seafood specialties.</item>
+        <item>Set in Lembongan, Mahagiri Resort Nusa Lembongan is a beachfront resort with an outdoor pool and a direct access to Mahagiri Beach. It features views of Mount Agung, sunrise and sunset. Guests can enjoy a meal at the restaurant or a drink at the bar. Free WiFi access and free parking are provided.\nAll rooms have a flat-screen TV and a safety deposit box. Certain rooms have a seating area to relax in after a busy day. Every room is fitted with a private bathroom, stocked with slippers and free toiletries.\nWater sports facilities, bike hire and car hire are available in the surrounding areas. You can engage in various activities, such as snorkeling and windsurfing.\nThe island is a 30-minute fast boat ride from Sanur Harbor and the property is a 5-minute drive from Jungut Batu Pier. Mangrove Point is 0.8 mi from Mahagiri Resort Nusa Lembongan, while Mushroom Bay is 1.8 mi away. Ngurah Rai International Airport is 21 mi from the property.</item>
+        <item>Boasting a private swimming pool accompanied by an outdoor gazebo, Villa Yasmine by Nakula Management is located 10 minutes’ walk from Jimbaran Beach and provides free WiFi throughout the villa.\nCombining Balinese architecture and modern elements, the living area at the villa has a flat-screen cable TV with DVD player while the kitchen is well-equipped with a stove, fridge and dining area. Bedrooms are fitted with air-conditioning and private bathroom with shower and bathtub.\nVilla Yasmine is 10 minutes’ drive from Nusa Dua and is 15 minutes’ drive from the nearest golf course. It is a 20-minute drive from Ngurah Rai International Airport.\nCar rentals through the villa staff while laundry and ironing services are available at a charge. Airport shuttle can also be arranged at an additional cost.</item>
+        <item>Phinisi Villas is a collection of multiple stand-alone villas located in vibrant Seminyak. It offers modern Balinese architecture with an outdoor pool in each villa with spa treatment service. This villa features free Wi-Fi throughout the property.\nThe air-conditioned rooms in each villa will provide guests with a flat-screen TV and private bathroom with bathtub and shower. There is a well-equipped kitchen with a stove, microwave and a refrigerator for each villa. Fully-equipped living room with entertainment facilities such as a flat-screen TV, DVD Player, CD player and iPod docking station are also available.\nPhinisi Villas can be reached within 30 minutes’ drive away from Ngurah Rai International Airport while Ku De Ta Restaurant is just 328 feet away. Petitenget Beach is 656 feet away from the property and is 5 minutes’ walk from Oberoi Street Seminyak where all the boutiques, shops and restaurants are located.\nAt Phinisi Villas, guests will find terrace with the view of garden and pool and outdoor barbecue facilities. It also has laundry and dry cleaning services offered at a charge. Babysitting services, private chef, airport transfers and car rental with or without the driver can be arranged at the villas.</item>
+        <item>Facing the beachfront, White Palm Hotel Bali offers 4-star accommodations in Jimbaran and features an outdoor swimming pool, garden and terrace. Featuring a bar, the hotel is close to several noted attractions, around a 3-minute walk from Balangan Beach and around 0.7 miles from Biu Biu Beach. The property provides room service, a concierge service and luggage storage for guests.\nAt the hotel, each room includes a closet, bed linen and a patio with a garden view. With a private bathroom equipped with a shower and free toiletries, rooms at White Palm Hotel Bali also offer free WiFi, while selected rooms contain a pool view. At the accommodation, each room has air conditioning and a safety deposit box.\nA continental, American or Asian breakfast is available daily at the property. At White Palm Hotel Bali you'll find a restaurant serving Catalan, French and Indonesian cuisine. Vegetarian, dairy-free and halal options can also be requested.\nGaruda Wisnu Kencana is 4.6 miles from the hotel, while Samasta Lifestyle Village is 4.9 miles away. The nearest airport is Ngurah Rai International, 8.1 miles from White Palm Hotel Bali, and the property offers a paid airport shuttle service.</item>
+        <item>Located in Nusa Dua, a 9-minute walk from Club Med Bali Beach, Bali Sunshine Inn Nusa Dua has accommodations with an outdoor swimming pool, free private parking, a terrace and a restaurant. This 3-star hotel offers room service and free WiFi. The hotel has family rooms.\nRooms are complete with a private bathroom, while some rooms at the hotel also have a balcony.\nGuests at Bali Sunshine Inn Nusa Dua can enjoy an Asian or a vegetarian breakfast.\nPopular points of interest near the accommodation include Samuh Beach, Sofitel Bali Beach and Bali Nusa Dua Convention Center. The nearest airport is Ngurah Rai International, 5.6 miles from Bali Sunshine Inn Nusa Dua, and the property offers a paid airport shuttle service.</item>
+        <item>Apple Villa &amp; Suite Seminyak enjoys a location in Seminyak, 1.4 miles from Seminyak Beach and 1.4 miles from Petitenget Beach. Featuring a restaurant, the property also has a garden. There\'s free private parking, and the property features a paid airport shuttle service.\nAll units feature air conditioning and a satellite flat-screen TV. Each room includes a private bathroom, a safety deposit box, and free Wifi, while some rooms include a terrace and some have pool views. At the resort village, each unit includes bed linen and towels.\nContinental and Asian breakfast options with warm dishes and fruit are available each morning at the resort village.\nBoth a bicycle rental service and a car rental service are available at Apple Villa &amp; Suite Seminyak.\nDouble Six Beach is 1.5 miles from the accommodation, while Petitenget Temple is 1.7 miles from the property. The nearest airport is Ngurah Rai International Airport, 5.6 miles from Apple Villa &amp; Suite Seminyak.</item>
+        <item>Located in Ubud, 3.6 miles from Ubud Palace, The Sebali Resort provides accommodations with an outdoor swimming pool, free private parking, a garden and a restaurant. Providing a bar, the property is located within 3.7 miles of Saraswati Temple. The property has a 24-hour front desk, airport transportation, room service and free WiFi throughout the property.\nThe hotel will provide guests with air-conditioned rooms offering a desk, a coffee machine, a minibar, a safety deposit box, a flat-screen TV, a terrace and a private bathroom with a bidet. Rooms come with an electric tea pot, while some rooms here will provide you with a balcony and others also provide guests with mountain views. At The Sebali Resort every room comes with bed linen and towels.\nThe daily breakfast offers continental, American or Asian options.\nThe area is popular for cycling, and bike rental and car rental are available at the accommodation.\nUbud Monkey Forest is 3.8 miles from The Sebali Resort, while Tegallalang Rice Terrace is 3.9 miles away. The nearest airport is Ngurah Rai International Airport, 24 miles from the hotel.</item>
+        <item>Welcoming guests with an outdoor swimming pool, Gajah Biru Bungalows is located a 15-minute drive from Ubud Monkey Forest. This property also features an on-site restaurant and free WiFi access.\nDecorated in soothing colors, the air-conditioned rooms here are fitted with TV, DVD player and a seating area. An electric kettle, refrigerator and mini-bar are also provided. The room is also equipped with a desk, wardrobe and a terrace or balcony. The bathroom comes with a bath or shower, hairdryer and free toiletries.\nGajah Biru Bungalows operates a 24-hour front desk that provides luggage storage and laundry/dry cleaning services. A tour desk and a garden are available. Airport transfer, vehicle rental and shuttle service can also be arranged with an additional charge. Guests can enjoy relaxing massage at the spa and wellness center.\nThai Thali Restaurant serves a selection of Indonesian as well continental cuisine and can provide in-room dining services.\nThe guest house is a 10-minute drive from central Ubud and a 1-hour drive from Bali Denpasar International Airport.</item>
+        <item>Sahadewa Resort &amp; Spa is located in the center of Ubud, within walking distance of the Monkey Forest. Featuring tropical greenery, it has an outdoor pool.\nThe Balinese-style rooms at Sahadewa are air-conditioned and offer either pool or garden views. Each spacious room has 1. mini-bar, and coffee/tea making facilities. The bathrooms have a bathtub and shower.\nGuests can relax on the sun loungers around the pool, or enjoy a soothing massage. Staff can assist with tour bookings and laundry or dry cleaning services. Safety deposit boxes are provided at the 24-hour front desk.\nMeals can be enjoyed at the restaurant, which also offers vegetarian dishes upon request. Drinks are available at the bar. Guests can also order room service.\nSahadewa Resort &amp; Spa is near several art shops, restaurants, and bars.</item>
+    </string-array>
 </resources>
